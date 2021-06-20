@@ -11,6 +11,12 @@ El siguiente `jupyter notebook` contiene el análisis de palabras más frecuente
 
 El detalle del procesamiento se encuentra detallado en el `jupyter notebook`.
 
+# Primeros resultados
+
+## Palabras más frecuentes programa de gobierno Daniel Jadue
+<img src="https://pbs.twimg.com/media/E4WzDQaWYAA4Xsd?format=png&name=900x900" alt="Palabras más frecuentes"/>
+
+
 # Pasos a seguir
 
 Esto es en primera instancia un acercamiento al análisis del programa del candidato presidencial Daniel Jadue, se espera aplicar más técnicas de _text analysis_ e incluir el programa de los demás candidatos presidenciales para así obtener un contraste entre los candidatos.
