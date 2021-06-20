@@ -17,5 +17,5 @@ Esto es en primera instancia un acercamiento al análisis del programa, se esper
 
 # Referencias
 
-[1] https://www.danieljaduepresidente.cl/wp-content/uploads/2021/06/Programa-DJ.pdf
+[1] https://www.danieljaduepresidente.cl/wp-content/uploads/2021/06/Programa-DJ.pdf \\
 [2] https://raw.githubusercontent.com/Alir3z4/stop-words/master/spanish.txt
