@@ -1,4 +1,4 @@
-# TextAnalysisProgramaCandidatos2021
+# Text Analysis Programa Candidatos Presidenciales 2021
 
 El siguiente `jupyter notebook` contiene el análisis de palabras más frecuentes del **Programa de Gobierno de Daniel Jadue.[1]**
 
