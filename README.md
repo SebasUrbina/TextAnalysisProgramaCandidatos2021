@@ -13,7 +13,7 @@ El detalle del procesamiento se encuentra detallado en el `jupyter notebook`.
 
 # Resultados
 
-##[Antiguo] Palabras más frecuentes programa de gobierno Daniel Jadue
+## [Antiguo] Palabras más frecuentes programa de gobierno Daniel Jadue
 <img src="https://pbs.twimg.com/media/E4WzDQaWYAA4Xsd?format=png&name=900x900" alt="Palabras más frecuentes"/>
 
 ## Palabras más frecuentes programa de gobierno de Gabriel Boric[3]
