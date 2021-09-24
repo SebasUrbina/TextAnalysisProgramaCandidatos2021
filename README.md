@@ -17,16 +17,16 @@ El detalle del procesamiento se encuentra detallado en el `jupyter notebook`.
 <img src="https://pbs.twimg.com/media/E4WzDQaWYAA4Xsd?format=png&name=900x900" alt="Palabras más frecuentes"/>
 
 ## Palabras más frecuentes programa de gobierno de Gabriel Boric[3]
-<img src='https://imgur.com/fUfsiGd' alt='Palabras más frecuentes'/>
+<img src='https://i.imgur.com/fUfsiGd.png' alt='Palabras más frecuentes'/>
 
 ## Palabras más frecuentes programa de gobierno de Sebastián Sichel[4]
-<img src='https://imgur.com/FqYpqQ4' alt='Palabras más frecuentes'/>
+<img src='https://i.imgur.com/tGj8yoE.png' alt='Palabras más frecuentes'/>
 
 ## Palabras más frecuentes programa de gobierno de Jose Antonio Kast[5]
-<img src='https://imgur.com/3rWQRRK' alt='Palabras más frecuentes'/>
+<img src='https://i.imgur.com/FqYpqQ4.png' alt='Palabras más frecuentes'/>
 
 ## Palabras más frecuentes programa de gobierno de Yasna Provoste[6]
-<img src='https://imgur.com/3rWQRRK' alt='Palabras más frecuentes'/>
+<img src='https://i.imgur.com/3rWQRRK.png' alt='Palabras más frecuentes'/>
 
 # Pasos a seguir
 
